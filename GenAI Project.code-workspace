@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../projects/GenAI Project"
+		},
+		{
+			"name": "GenAIDL",
+			"path": "../projects/GenAI Project/GenAIDL"
+		}
+	],
+	"settings": {}
+}
